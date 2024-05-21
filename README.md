@@ -59,9 +59,9 @@ Start the server
 
 ## Contributors
 
-- Leela Santhosh [Github](https://github.com/Leela-27) | [LinkedIn](https://www.linkedin.com/mynetwork)
+- Leela Santhosh [Github](https://github.com/Leela-27) | [LinkedIn](www.linkedin.com/in/leela-santhosh-gonnabathula-5852a830a)
 
 
 ## Deployed website
 
-[website](www.linkedin.com/in/leela-santhosh-gonnabathula-5852a830a)
+[website](https://flash-card-generator-hn9l9qwfi-leela-27s-projects.vercel.app/)
